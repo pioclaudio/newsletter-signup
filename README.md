@@ -1,0 +1,1 @@
+Newsletter signup app. Implmented in Express / Node. Uses mailchimp API.
